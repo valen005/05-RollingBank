@@ -9,6 +9,9 @@
   height: 560px;
   object-fit: cover;
 }
-.card{
-    width: 350px;
+.cardPrincipal{
+    width: 300px;
+}
+.cajasBox{
+    height: 150px;
 }
