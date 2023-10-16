@@ -5,7 +5,10 @@
   font-size: 30px;
 }
 
-.imgCarrusel{
-    height: 560px;
-    object-fit: cover;
+.imgCarrusel {
+  height: 560px;
+  object-fit: cover;
+}
+.card{
+    width: 350px;
 }
