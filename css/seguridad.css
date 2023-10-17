@@ -4,3 +4,9 @@
     font-family: "Changa", sans-serif;
     font-size: 45px;
 }
+
+@media screen and (max-width: 542px) {
+    .bannerTexto {
+        font-size: 25px;
+    }
+}
